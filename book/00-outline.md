@@ -1,66 +1,66 @@
-New framework
-Book I – The Need
- Justification manifesto, statistics, origin story.
+# Framework for Integrating Philosophical Teachings into The Common Path
 
+## Where do “Philosophical Teachings” belong?
 
-Book II – The View (Wisdom Canon)
- Seven virtues (Values)
- Liberating insights (Philosophy):
+Philosophical teachings belong in the **View** layer of the framework. They shape how we interpret life *before* we act—complementing and deepening the virtues. This four-layer structure organizes the full philosophical and practical corpus of The Common Path:
 
+| Layer                      | Purpose                          | Typical Content                                                                 |
+|---------------------------|----------------------------------|---------------------------------------------------------------------------------|
+| **Need**                  | Explain *why* the project exists | Meaning crisis, loneliness data, historical failures                            |
+| **View**                  | Provide a *coherent way of seeing* | Seven shared virtues • Impermanence • Three Doors of Liberation • Stoic control dichotomy • Indigenous reciprocity • Cognitive reframing |
+| **Practice**              | Translate view into *ritual & habit* | Tea ceremony, weekly virtue challenge, service sash                             |
+| **Governance / Guardrails** | Keep the system *healthy*         | Code of Civic Kindness, transparency rules, term limits                         |
 
-Impermanence & non‑self
+---
 
+## Suggested Book Architecture
 
-Three Doors of Liberation
+1. **Book I – The Need**  
+   Justification manifesto, psychological/sociological data, origin story.
 
+2. **Book II – The View (Wisdom Canon)**  
+   - Seven Shared Virtues  
+   - Foundational philosophical teachings ("liberating insights"):  
+     - Impermanence & non-self  
+     - The Three Doors of Liberation  
+     - Stoic Amor Fati  
+     - Indigenous Reciprocity  
+     - Modern cognitive-behavioral re-framing  
+   - Each section concludes with a **"Practice Bridge"**—a short paragraph connecting philosophy to ritual.
 
-Stoic amor fati
+3. **Book III – The Practice (Rituals & Community)**  
+   - Daily, weekly, seasonal, and life-stage rituals  
+   - Identity-as-practice tools: virtue autobiography, symbolic objects, service sashes  
+   - Community design: hosting circles, listening formats, rites of inclusion
 
+4. **Book IV – The Guardrails (Pitfalls & Protections)**  
+   - Common dysfunctions (gossip, corruption, dogma drift, exclusion)  
+   - Institutional safeguards and cultural commitments  
+   - Procedural norms (e.g. transparency, rotating roles, accountability loops)
 
-Indigenous reciprocity principle
+*Books III & IV may be merged into a single "Community Handbook" if length or cohesion warrants.*
 
+---
 
-Modern cognitive‑behavioral re‑framing
- Each module ends with a “Practice bridge” paragraph that points to rituals in Book III.
+## Curating Philosophical Teachings: Three Filters
 
+To decide what philosophical ideas belong in The Common Path “Wisdom Canon,” use these filters:
 
-Book III – The Practice (Rituals & Community)
- Daily, weekly, life‑stage rites, plus identity‑craft tools (virtue autobiography, shared symbols).
+1. **Universality**  
+   - Does the teaching appear across cultures, or mirror known psychological principles?
 
+2. **Coherence**  
+   - Can it coexist with science and reason without requiring metaphysical allegiance?
 
-Book IV – The Guardrails (Pitfalls & Protections)
- Bullying, gossip, corruption, dogma‑creep—paired with procedural antidotes.
+3. **Practical Leverage**  
+   - Does the teaching lead to clear improvements in well-being or moral development?
 
+Examples that pass all three:  
+- The Three Doors of Liberation  
+- Stoic dichotomy of control  
+- Growth mindset  
+- Interdependent origination  
+- The “observer self” from modern psychology
 
-(If length is daunting, Books III & IV can share a single “Community Handbook.”)
+---
 
-
-Layer
-Purpose
-Typical Content
-Need
-Explain why the project exists
-Meaning crisis, loneliness data, historical failures
-View
-Provide a coherent way of seeing
-Seven shared virtues • Impermanence • Three Doors • Growth‑mindset, etc.
-Practice
-Translate view into ritual & habit
-Tea ceremony, weekly virtue challenge, service sash
-Governance / Guardrails
-Keep the system healthy
-Code of Civic Kindness, transparency rules, term limits
-
-
-
-Curating philosophical teachings: three filters
-Universality. Does the insight crop up in multiple cultures or map to known psychological principles?
-
-
-Coherence. Can it live alongside empirical science without forcing metaphysical allegiance?
-
-
-Practical leverage. Does it reliably change behavior or reduce suffering when applied?
-
-
-The Three Doors of Liberation pass all three: they reframe reality (coherence), appear across Mahāyāna lineages (universality), and cultivate equanimity (leverage).
