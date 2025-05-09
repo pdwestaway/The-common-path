@@ -19,16 +19,16 @@
 
 | Teaching | U | C | P | **Total** | Status | Raw Sheet |
 |----------|---|---|---|-----------|---------|-----------|
-| Three Doors of Liberation | 4 | 5 | 4 | **13** | Pilot complete | [three-doors.yaml](../data/teaching-scores/three-doors.yaml) |
-| Stoic Dichotomy of Control | 5 | 5 | 3 | **13** | Pilot complete | [stoic-dichotomy.yaml](../data/teaching-scores/stoic-dichotomy.yaml) |
-| Growth Mindset | 3 | 5 | 5 | **13** | Pilot scheduled | [growth-mindset.yaml](../data/teaching-scores/growth-mindset.yaml) |
-| Interdependent Origination | 4 | 5 | 3 | **12** | Needs community pilot | [interdependent-origination.yaml](../data/teaching-scores/interdependent-origination.yaml) |
-| Golden Rule | 5 | 4 | 3 | **12** | Needs RCT evidence review | [golden-rule.yaml](../data/teaching-scores/golden-rule.yaml) |
-| Ubuntu (“I am because we are”) | 4 | 4 | 4 | **12** | Pilot scheduled | [ubuntu.yaml](../data/teaching-scores/ubuntu.yaml) |
-| Observer Self (ACT) | 3 | 4 | 4 | **11** | Lit review in progress | [observer-self.yaml](../data/teaching-scores/observer-self.yaml) |
-| Impermanence (*anicca*) | 4 | 5 | 2 | **11** | Needs leverage data | [impermanence.yaml](../data/teaching-scores/impermanence.yaml) |
-| Memento Mori | 4 | 4 | 3 | **11** | Needs universality check | [memento-mori.yaml](../data/teaching-scores/memento-mori.yaml) |
-| Ikigai | 3 | 4 | 4 | **11** | Pilot complete | [ikigai.yaml](../data/teaching-scores/ikigai.yaml) |
+| Three Doors of Liberation | 4 | 5 | 4 | **13** |  Lit review in progress| [three-doors.yaml](../data/teaching-scores/three-doors.yaml) |
+| Stoic Dichotomy of Control | 5 | 5 | 3 | **13** |  Lit review in progress | [stoic-dichotomy.yaml](../data/teaching-scores/stoic-dichotomy.yaml) |
+| Growth Mindset | 3 | 5 | 5 | **13** |  Lit review in progress | [growth-mindset.yaml](../data/teaching-scores/growth-mindset.yaml) |
+| Interdependent Origination | 4 | 5 | 3 | **12** | Lit review in progress | [interdependent-origination.yaml](../data/teaching-scores/interdependent-origination.yaml) |
+| Golden Rule | 5 | 4 | 3 | **12** |  Lit review in progress | [golden-rule.yaml](../data/teaching-scores/golden-rule.yaml) |
+| Ubuntu (“I am because we are”) | 4 | 4 | 4 | **12** |  Lit review in progress | [ubuntu.yaml](../data/teaching-scores/ubuntu.yaml) |
+| Observer Self (ACT) | 3 | 4 | 4 | **11** |  Lit review in progress | [observer-self.yaml](../data/teaching-scores/observer-self.yaml) |
+| Impermanence (*anicca*) | 4 | 5 | 2 | **11** |  Lit review in progress | [impermanence.yaml](../data/teaching-scores/impermanence.yaml) |
+| Memento Mori | 4 | 4 | 3 | **11** |  Lit review in progress | [memento-mori.yaml](../data/teaching-scores/memento-mori.yaml) |
+| Ikigai | 3 | 4 | 4 | **11** |  Lit review in progress | [ikigai.yaml](../data/teaching-scores/ikigai.yaml) |
 
 > **Status keys:**  
 > `Lit review in progress` · `Needs community pilot` · `Pilot scheduled` · `Pilot complete`
